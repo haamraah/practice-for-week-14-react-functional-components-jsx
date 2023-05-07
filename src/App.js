@@ -1,7 +1,9 @@
+import Showcase from "./Showcase";
+import "./app.css";
 function App() {
   return (
-    <div>
-      <h1>App Component</h1>
+    <div className="background container">
+      <Showcase />
     </div>
   );
 }

@@ -1,0 +1,9 @@
+img {
+  width: 50%;
+  height: auto;
+  display: block;
+  transition: opacity 0.25s ease-out;
+}
+img:hover {
+  opacity: 0.4;
+}
